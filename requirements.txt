@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+deep-translator
+langchain
+langchain-community
+langchain-huggingface
+torch
+python-dotenv
+faiss-cpu
+pypdf
+sentence-transformers
+accelerate
+bitsandbytes
